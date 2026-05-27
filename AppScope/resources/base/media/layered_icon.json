@@ -1,0 +1,6 @@
+{
+  "layered-image": {
+    "foreground": "$media:weather_icon",
+    "background": "$media:bg_white"
+  }
+}
